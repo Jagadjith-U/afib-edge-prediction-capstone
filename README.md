@@ -6,9 +6,9 @@ Lightweight short-term atrial fibrillation prediction from single-lead ECG using
 This capstone is the joint work of all three team members. Research, software,
 experiments, analysis, and documentation were completed collaboratively:
 
-- [Sreelakshmi](https://github.com/sreelakshmitb)
-- [Jagadjith](https://github.com/Jagadjith-U)
-- [Aravind](https://github.com/aravindd3)
+- [Sreelakshmi T B](https://github.com/sreelakshmitb)
+- [Jagadjith U](https://github.com/Jagadjith-U)
+- [Aravind V S](https://github.com/aravindd3)
 
 Git commit authorship records who uploaded a change; it does not divide or rank
 the team's contributions.
